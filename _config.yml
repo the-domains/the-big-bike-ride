@@ -1,0 +1,14 @@
+layout_spectrum: 0.2524824
+typography_spectrum: 0.09908911
+color:
+  saturation: 0.5498828
+  lightness: 0.6170039
+  brandStrength: 0.1101745
+  rhythmicContrast: 0.819535
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: The big bike ride
